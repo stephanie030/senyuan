@@ -1,3 +1,7 @@
 [theme]
-base="Use system setting"
+base="light"
 primaryColor="#9a91bd"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F5F5F9"
+textColor="#000000"
+font="sans serif"
